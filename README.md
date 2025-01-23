@@ -1,3 +1,4 @@
+![image](https://github.com/user-attachments/assets/885bc85e-f03c-4ad1-a34d-5336a1e250ed)
 ## Retail-Sales-Data-Warehousing-Project
 ### Data Warehouse and Analytical Queries Setup
 **Objective**: Designed and implemented a data warehousing solution to analyze retail sales data, enabling efficient inventory management and sales trend forecasting.  
@@ -30,4 +31,4 @@
 #### **Impact**:  
 - Provided a scalable data warehousing solution for retail sales analysis, improving decision-making and inventory management.  
 - Delivered actionable insights through advanced analytics and predictive modeling, reducing inventory costs and increasing sales efficiency.  
-![image](https://github.com/user-attachments/assets/885bc85e-f03c-4ad1-a34d-5336a1e250ed)
+
