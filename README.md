@@ -10,6 +10,7 @@ shops_data: Information about each shop, including location and type.
 item_categories_data: Stores item category names.
 items_data: Holds item details and links to categories.
 sales_transactions: Records each transaction, including date, shop, item, and sales data.
+
 2. dimensional_model.sql
 Defines the dimensional model schema used for data warehousing. This script:
 
@@ -21,6 +22,7 @@ item_dim: Item and category data.
 date_dim: Date attributes for time-based analysis.
 Fact Table:
 sales_fact: Aggregated sales data, referencing dimensions for analytical queries.
+
 3. creating_view_analytical_queries.sql
 Defines several analytical views to support business insights and trend analysis:
 
