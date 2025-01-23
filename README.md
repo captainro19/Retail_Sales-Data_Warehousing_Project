@@ -1,3 +1,4 @@
+### Data Warehouse and Analytical Queries Setup
 **Objective**: Designed and implemented a data warehousing solution to analyze retail sales data, enabling efficient inventory management and sales trend forecasting.  
 
 #### **Key Contributions**:  
